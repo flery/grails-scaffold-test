@@ -1,0 +1,4 @@
+
+beans = {
+        scaffoldActions(customscaffold.ScaffoldActions)
+}
